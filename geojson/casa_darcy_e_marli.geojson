@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "C:\\Users\\Lavinia\\Downloads\\RURAL\\casa_darcy_e_marli.geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::31982" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "", "NOME": "Sítio Agroecológico Vida Nova" }, "geometry": { "type": "Point", "coordinates": [ 354503.851571628532838, 7185432.74358341190964 ] } }
+]
+}
