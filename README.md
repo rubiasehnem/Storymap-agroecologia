@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://rubiasehnem.github.io/Storymap-agroecologia/ 
-- Google Sheets template https://docs.google.com/spreadsheets/d/1KQoT0r5eN2rQYQN2x62zRtGE-ip9VvM45wwETZ5axbI/edit#gid=428663999 
+- Google Sheets template https://docs.google.com/spreadsheets/d/1KQoT0r5eN2rQYQN2x62zRtGE-ip9VvM45wwETZ5axbI/edit#gid=428663999
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
